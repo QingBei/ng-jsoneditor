@@ -1,5 +1,5 @@
 {
-  "name": "ng-jsoneditor",
+  "name": "qb-ng-jsoneditor",
   "main": "ng-jsoneditor.min.js",
     "homepage": "https://github.com/angular-tools/ng-jsoneditor",
   "authors": [
@@ -13,7 +13,7 @@
   "license": "The Artistic License 2.0",
   "dependencies": {
     "angular": "~1.x",
-    "jsoneditor": "~4"
+    "qb-jsoneditor": "~6"
   },
   "ignore": [
     "**/.*",
