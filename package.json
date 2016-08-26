@@ -22,10 +22,10 @@
   ],
   "license": "MIT",
   "main": "ng-jsoneditor.js",
-  "name": "ng-jsoneditor",
+  "name": "qb-ng-jsoneditor",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/QingBei/ng-jsoneditor.git"
   },
-  "version": "1.0.0"
+  "version": "2.0.0"
 }
